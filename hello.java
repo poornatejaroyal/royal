@@ -5,7 +5,7 @@ public class hello{
             if(i=10)
 {
 
-                    System.out.println("HELLO WORLD...........");
+                    System.out.println("HELLO WORLD............");
 
             }
  
